@@ -1,6 +1,9 @@
 // Mensaje de bienvenida al cargar la página
 window.addEventListener('load', () => {
     alert('¡Bienvenido a nuestra página mejorada!');
+
+    // Cambiar color del mensaje de error del email (Integrante 2)
+    document.getElementById('email-error').style.color = '#FF4500';
 });
 
 // Cambio de tema
