@@ -1,3 +1,8 @@
+// Mensaje de bienvenida al cargar la página
+window.addEventListener('load', () => {
+    alert('¡Bienvenido a nuestra página mejorada!');
+});
+
 // Cambio de tema
 const toggleThemeButton = document.getElementById('toggle-theme');
 toggleThemeButton.addEventListener('click', () => {
