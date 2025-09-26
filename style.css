@@ -3,13 +3,13 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #d54609;
     color: #333;
     transition: background-color 0.3s, color 0.3s;
 }
 
 header {
-    background-color: #4CAF50;
+    background-color: #2912d6;
     color: white;
     padding: 10px 20px;
     text-align: center;
@@ -26,7 +26,7 @@ button {
 
 button:hover {
     background-color: white;
-    color: #4CAF50;
+    color: #2912d6;
 }
 
 /* Estilos del formulario */
@@ -37,7 +37,7 @@ main {
 }
 
 form {
-    background-color: white;
+    background-color: #0d7d8c;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -55,7 +55,7 @@ input, textarea {
     width: 100%;
     padding: 8px;
     margin-bottom: 10px;
-    border: 1px solid #ccc;
+    border: 1px solid #a60c0c;
     border-radius: 4px;
     box-sizing: border-box;
 }
@@ -75,7 +75,7 @@ textarea {
 footer {
     text-align: center;
     padding: 10px;
-    background-color: #4CAF50;
+    background-color: #2912d6;
     color: white;
 }
 
